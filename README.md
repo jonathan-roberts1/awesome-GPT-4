@@ -1,8 +1,6 @@
-# Awesome GPT-4
+# Awesome GPT-4 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo summarises interesting demos / analysis with GPT-4.
-
-
+A curated list of the latest news, resources, demos, and technical details related to OpenAI's GPT-4 language model. Stay up-to-date with the cutting-edge developments and join the community! :rocket:
 
 ## Latest News 🎉
 - 14/3/23: [GPT-4 public release](https://openai.com/research/gpt-4)
@@ -12,13 +10,12 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 
 
 ## Table of Contents
-- [Awesome GPT-4](#awesome-gpt4)
+- [Awesome GPT-4](#awesome-gpt-4)
   - [Latest News 🎉](#latest-news-)
-  - [Related Repositories](#related-repos)
+  - [Related Repositories](#related-repositories)
   - [Table of Contents](#table-of-contents)
   - [Techincal Details](#technical-details)
   - [Cool Demos](#cool-demos)
-  - [News](#chatgpt-news)
   - [Missing something?](#missing-something)
   - [License](#license)
  
