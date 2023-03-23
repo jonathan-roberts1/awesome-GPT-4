@@ -3,6 +3,8 @@
 A curated list of the latest news, resources, demos, and technical details related to OpenAI's GPT-4 language model. Stay up-to-date with the cutting-edge developments and join the community! :rocket:
 
 ## Latest News 🎉
+- 22/3/23: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+![](images/sparks.png '')
 - 14/3/23: [GPT-4 public release](https://openai.com/research/gpt-4)
 
 ## Related Repositories
@@ -75,6 +77,42 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 
 
 ## Cool Demos
+
+<details>
+<summary>100% on Amazon coding interview in <4 mins</summary>
+<br>
+- https://arxiv.org/abs/2303.12712
+
+  ![](images/amazon.png '')
+</details>
+
+
+<details>
+<summary>Stable Diffusion and GPT-4</summary>
+<br>
+- https://arxiv.org/abs/2303.12712
+
+  ![](images/stable_diffusion.png '')
+</details>
+
+
+<details>
+<summary>Fancy pyplots</summary>
+<br>
+- https://arxiv.org/abs/2303.12712
+
+  ![](images/fancy_pyplots.png '')
+</details>
+
+
+<details>
+<summary>Rhyming Mathematical Proof</summary>
+<br>
+- https://arxiv.org/abs/2303.12712
+
+  ![](images/rhyme_prime.png '')
+</details>
+
 
 <details>
 <summary>Blender Integration</summary>
