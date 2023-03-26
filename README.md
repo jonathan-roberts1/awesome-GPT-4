@@ -18,6 +18,7 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
   - [Table of Contents](#table-of-contents)
   - [Techincal Details](#technical-details)
   - [Cool Demos](#cool-demos)
+  - [Videos](#videos)
   - [Missing something?](#missing-something)
   - [License](#license)
  
@@ -198,6 +199,37 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 - https://twitter.com/TheRundownAI/status/1638241844042559499
 
   ![](images/tweet_businesses.png '')
+</details>
+
+
+
+## Videos
+<details>
+<summary>Sam Altman on the Lex Fridman Podcast</summary>
+<br>
+
+- https://youtu.be/L_Guz73e6fw
+
+  ![](images/sam_altman_lex.png '')
+</details>
+
+<details>
+<summary>OpenAI GPT-4 Live with Elon Musk</summary>
+<br>
+
+- https://www.youtube.com/live/KRs98TvzUZE?feature=share
+
+  ![](images/open_ai_elon.png '')
+</details>
+
+
+<details>
+<summary>Bill Gates on GPT-4, AI</summary>
+<br>
+
+- https://www.youtube.com/live/IPHmRVDq25U?feature=share
+
+  ![](images/bill_gates.png '')
 </details>
 
 
