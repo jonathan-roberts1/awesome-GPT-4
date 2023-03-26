@@ -94,7 +94,39 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 
   ![](images/stable_diffusion.png '')
 </details>
+  
+  
+<details>
+<summary>GPT-4 as a research assistant</summary>
+<br>
+- https://twitter.com/kareem_carr/status/1640003536925917185
 
+  ![](images/llm_guide.png '')
+</details>
+  
+<details>
+<summary>GPT-4 saves a dog's life</summary>
+<br>
+- https://twitter.com/peakcooper/status/1639716822680236032
+
+  ![](images/saving_dog.png '')
+</details>
+  
+<details>
+<summary>GPT-4 writes a new language game</summary>
+<br>
+- https://twitter.com/gdb/status/1640092099579371520
+
+  ![](images/language_game.png '')
+</details>
+  
+<details>
+<summary>Building a complete app from scratch</summary>
+<br>
+- https://twitter.com/mortenjust/status/1639276571574894594
+
+  ![](images/app_from_scratch.png '')
+</details>
 
 <details>
 <summary>Fancy pyplots</summary>
@@ -167,8 +199,6 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 
   ![](images/tweet_businesses.png '')
 </details>
-
-
 
 
 
