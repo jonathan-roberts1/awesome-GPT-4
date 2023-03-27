@@ -16,7 +16,7 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
   - [Latest News 🎉](#latest-news-)
   - [Related Repositories](#related-repositories)
   - [Table of Contents](#table-of-contents)
-  - [Techincal Details](#technical-details)
+  - [Technical Details](#technical-details)
   - [Cool Demos](#cool-demos)
   - [Videos](#videos)
   - [Missing something?](#missing-something)
@@ -201,9 +201,18 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
   ![](images/tweet_businesses.png '')
 </details>
 
+<details>
+<summary>GPT-4 solved Yann LeCun's gear problem after specifying that it was given by Yann LeCun</summary>
+<br>
+
+- https://twitter.com/stanislavfort/status/1640026125316378624?s=20
+
+  ![](images/yann_lecun_gear_problem.png '')
+</details>
 
 
 ## Videos
+
 <details>
 <summary>Sam Altman on the Lex Fridman Podcast</summary>
 <br>
