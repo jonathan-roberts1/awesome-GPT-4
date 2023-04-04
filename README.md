@@ -12,7 +12,7 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 
 
 ## Table of Contents
-- [Awesome GPT-4](#awesome-gpt-4)
+- [Awesome GPT-4 ](#awesome-gpt-4-)
   - [Latest News 🎉](#latest-news-)
   - [Related Repositories](#related-repositories)
   - [Table of Contents](#table-of-contents)
@@ -208,6 +208,15 @@ ChatGPT - [awesome-ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
 - https://twitter.com/stanislavfort/status/1640026125316378624?s=20
 
   ![](images/yann_lecun_gear_problem.png '')
+</details>
+
+<details>
+<summary>Jailbreaking GPT-4 by asking it to act as a misinformation bot</summary>
+<br>
+
+- https://twitter.com/AlphaSignalAI/status/1643271098342014977?s=20
+
+  ![](images/misinformation_bot.png '')
 </details>
 
 
